@@ -10,9 +10,9 @@
       "isBackground": false,
       "options": {
         "env": {
-          "SSH_USER": "USER_FOR_SSH_SERVICE",
-          "SSH_SERVER": "SERVER_URL",
-          "SSH_FOLDER_CLIENT": "FOLDER_IN_SERVER"
+          "EZQR_SSH_USER": "USER_FOR_SSH_SERVICE",
+          "EZQR_SSH_SERVER": "SERVER_URL",
+          "EZQR_SSH_FOLDER_CLIENT": "FOLDER_IN_SERVER"
         }
       }
     }
